@@ -1,0 +1,123 @@
+[
+  {
+    "farmerName": "Pedrinho",
+    "farmName": "Harvest Mooning",
+    "city": "Jabutiatinga",
+    "state": "Rio Grande do Sul",
+    "totalFarmArea": 12300,
+    "totalArableArea": 1000,
+    "totalVegetationArea": 11000,
+    "cnpj": "34088086000178",
+    "crops": ["Batatas", "Arroz"]
+  },
+  {
+    "farmerName": "Maria",
+    "farmName": "Sunshine Farm",
+    "city": "Floripa",
+    "state": "Santa Catarina",
+    "totalFarmArea": 9500,
+    "totalArableArea": 3000,
+    "totalVegetationArea": 6500,
+    "cnpj": "21436587000123",
+    "crops": ["Milho", "Soja"]
+  },
+  {
+    "farmerName": "João",
+    "farmName": "Green Acres",
+    "city": "Porto Alegre",
+    "state": "Rio Grande do Sul",
+    "totalFarmArea": 15000,
+    "totalArableArea": 4000,
+    "totalVegetationArea": 11000,
+    "cnpj": "98765432000198",
+    "crops": ["Soja", "Café"]
+  },
+  {
+    "farmerName": "Ana",
+    "farmName": "Riverside Farm",
+    "city": "São José",
+    "state": "Santa Catarina",
+    "totalFarmArea": 12000,
+    "totalArableArea": 2500,
+    "totalVegetationArea": 9500,
+    "cnpj": "12345678901234",
+    "crops": ["Arroz", "Milho"]
+  },
+  {
+    "farmerName": "Carlos",
+    "farmName": "Valley View",
+    "city": "Caxias do Sul",
+    "state": "Rio Grande do Sul",
+    "totalFarmArea": 10000,
+    "totalArableArea": 2000,
+    "totalVegetationArea": 8000,
+    "cnpj": "56789012345678",
+    "crops": ["Café", "Batatas"]
+  },
+  {
+    "farmerName": "Juliana",
+    "farmName": "Sunny Fields",
+    "city": "Joinville",
+    "state": "Santa Catarina",
+    "totalFarmArea": 11000,
+    "totalArableArea": 3500,
+    "totalVegetationArea": 7500,
+    "cnpj": "87654321098765",
+    "crops": ["Soja", "Milho"]
+  },
+  {
+    "farmerName": "Ricardo",
+    "farmName": "Farm Fresh",
+    "city": "Pelotas",
+    "state": "Rio Grande do Sul",
+    "totalFarmArea": 8000,
+    "totalArableArea": 1500,
+    "totalVegetationArea": 6500,
+    "cnpj": "13579246801357",
+    "crops": ["Arroz", "Café"]
+  },
+  {
+    "farmerName": "Patricia",
+    "farmName": "Green Pastures",
+    "city": "Lages",
+    "state": "Santa Catarina",
+    "totalFarmArea": 14000,
+    "totalArableArea": 4000,
+    "totalVegetationArea": 10000,
+    "cnpj": "24680135792468",
+    "crops": ["Milho", "Batatas"]
+  },
+  {
+    "farmerName": "Marcelo",
+    "farmName": "Harvest Time",
+    "city": "São Bento do Sul",
+    "state": "Santa Catarina",
+    "totalFarmArea": 9000,
+    "totalArableArea": 2000,
+    "totalVegetationArea": 7000,
+    "cnpj": "36925814703692",
+    "crops": ["Soja", "Arroz"]
+  },
+  {
+    "farmerName": "Elena",
+    "farmName": "Mountain Farms",
+    "city": "Gramado",
+    "state": "Rio Grande do Sul",
+    "totalFarmArea": 11000,
+    "totalArableArea": 2500,
+    "totalVegetationArea": 8500,
+    "cnpj": "48263947102984",
+    "crops": ["Batatas", "Milho"]
+  },
+  {
+    "farmerName": "Roberto",
+    "farmName": "Valley Farms",
+    "city": "Blumenau",
+    "state": "Santa Catarina",
+    "totalFarmArea": 9500,
+    "totalArableArea": 3000,
+    "totalVegetationArea": 6500,
+    "cnpj": "54789630214567",
+    "crops": ["Arroz", "Soja"]
+  }
+]
